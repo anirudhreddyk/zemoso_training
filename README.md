@@ -1,0 +1,1 @@
+this file is the description of what i've been doing since i joined zemoso.we've installed few applications like github, cliq, jira ,etc; and started our first task i,e. Version control. this has 19 subtasks in it. currentl working on 5th kata
